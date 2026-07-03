@@ -34,8 +34,8 @@ To use StedNet-Lock, you must have Shizuku installed and active on your Android 
 
 ## Contributors
 
-* **Omer Kurdi** - Lead Developer
-* **Google AI Studio** - AI Assistant & Co-Developer
+* Omer Kurdi
+* Google AI Studio
 
 ## License
 
