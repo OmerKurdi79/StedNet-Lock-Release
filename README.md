@@ -2,6 +2,14 @@
 
 StedNet-Lock is a Shizuku-powered network switcher application for Android that enables you to toggle network modes and manage customized network profiles with ease.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.jpg" width="30%" alt="Screenshot 1" />
+  <img src="screenshots/screenshot2.jpg" width="30%" alt="Screenshot 2" />
+  <img src="screenshots/screenshot3.jpg" width="30%" alt="Screenshot 3" />
+</p>
+
 ## Key Features
 
 * **Network Mode Locking**: Lock your device to specific network modes (such as LTE-only or NR-only) that are not natively exposed in the system settings.
@@ -26,4 +34,4 @@ To use StedNet-Lock, you must have Shizuku installed and active on your Android 
 
 ## License
 
-StedNet-Lock is proprietary closed-source software. All rights reserved. Please refer to the [LICENSE](file:///sdcard/Download/antigravity/Output/StedNet-Lock-Release/LICENSE) file for more information.
+StedNet-Lock is proprietary closed-source software. All rights reserved. Please refer to the [LICENSE](LICENSE) file for more information.
