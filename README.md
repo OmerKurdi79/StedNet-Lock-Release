@@ -32,6 +32,11 @@ To use StedNet-Lock, you must have Shizuku installed and active on your Android 
 3. Open the downloaded file on your Android device to install it.
 4. Launch StedNet-Lock and grant it the requested Shizuku permission when prompted.
 
+## Contributors
+
+* **Omer Kurdi** - Lead Developer
+* **Google AI Studio** - AI Assistant & Co-Developer
+
 ## License
 
 StedNet-Lock is proprietary closed-source software. All rights reserved. Please refer to the [LICENSE](LICENSE) file for more information.
